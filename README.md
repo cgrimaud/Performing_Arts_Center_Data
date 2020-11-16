@@ -10,5 +10,5 @@ There are 6 tables:
   5. Orders
   6. OrderItems
   
-I used https://www.mockaroo.com/ for the Patrons data. 
+https://www.mockaroo.com/ was used for the patrons data. 
 
